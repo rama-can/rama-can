@@ -29,7 +29,7 @@ Ask me anything **[here](https://ramacan.dev)** or <a href="mailto:hello@ramacan
 
 <br />
 
-**Happy Coding!** 😊
+**Happy Coding!** 
 
 </div>
 
