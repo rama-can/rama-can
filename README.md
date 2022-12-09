@@ -54,7 +54,7 @@ Ask me anything **[here](https://ramacan.dev)** or <a href="mailto:hello@ramacan
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/rama-can/assets/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/rama-can/assets/blob/main/svgs/firebase.svg" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://github.com/rama-can/assets/blob/main/svgs/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://php.net" target="_blank"><img margin="10px" height="40" src="https://github.com/rama-can/assets/blob/main/svgs/php.svg" alt="php programming"></a>
+<a margin="10" href="https://php.net" target="_blank"><img margin="10px" height="40" width="40" src="https://github.com/rama-can/assets/blob/main/svgs/php.svg" alt="php programming"></a>
 <br />
 <br />
 <a margin="10" href="https://sanity.io" target="_blank"><img margin="10px" height="40" src="https://github.com/rama-can/assets/blob/main/svgs/sanity.svg" alt="sanity"></a>
